@@ -1,0 +1,58 @@
+{
+    "short_name": "Muhammad Ranju Official Portfolio Website",
+    "name": "Muhammad Ranju Official Portfolio Website?",
+    "icons": [
+      {
+        "src": "/assets/img/logo.svg",
+        "type": "image/svg+xml",
+        "sizes": "512x512"
+      },
+      {
+        "src": "/assets/img/logo.svg",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "/favicon.ico",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ],
+    "id": "/?source=pwa",
+    "start_url": "/?source=pwa",
+    "background_color": "#0788FF",
+    "display": "standalone",
+    "scope": "/",
+    "theme_color": "#0788FF",
+    "shortcuts": [
+      {
+        "name": "Muhammad Ranju Official Portfolio Website",
+        "short_name": "Today",
+        "description": "I'm a JavaScript Developer at Node.JS & Express.JS",
+        "url": "/today?source=pwa",
+        "icons": [{ "src": "/assets/img/home-banner.png", "sizes": "192x192" }]
+      },
+      {
+        "name": "Muhammad Ranju Official Portfolio Website",
+        "short_name": "Tomorrow",
+        "description": "I'm a JavaScript Developer at Node.JS & Express.JS",
+        "url": "/tomorrow?source=pwa",
+        "icons": [{ "src": "/favicon.ico", "sizes": "192x192" }]
+      }
+    ],
+    "description": "I'm a JavaScript Developer at Node.JS & Express.JS",
+    "screenshots": [
+      {
+        "src": "/assets/img/profile.png",
+        "type": "image/png",
+        "sizes": "540x720",
+        "form_factor": "narrow"
+      },
+      {
+        "src": "/assets/img/profile.png",
+        "type": "image/jpg",
+        "sizes": "720x540",
+        "form_factor": "wide"
+      }
+    ]
+  }
